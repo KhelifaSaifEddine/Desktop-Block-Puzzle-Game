@@ -1,0 +1,19 @@
+#include <SDL2/SDL.h>
+
+int m[7][7];
+SDL_Window *amigh;
+SDL_Renderer *rend;
+SDL_Texture *image;
+SDL_Rect pimage;
+SDL_Texture *play;
+SDL_Rect p3;
+SDL_Texture *gr;
+SDL_Texture *K05;
+SDL_Texture *K01;
+SDL_Texture *K02;
+SDL_Texture *K03;
+SDL_Texture *K04;
+SDL_Rect pgr;
+SDL_Rect pk;
+SDL_Texture *jeu;
+int w,h,wid,hit;

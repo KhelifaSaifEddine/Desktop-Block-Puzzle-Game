@@ -1,0 +1,872 @@
+# depslib dependency file v1.0
+1546034690 source:c:\users\administrator\desktop\game1.1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<time.h>
+	<string.h>
+	<SDL2/SDL_ttf.h>
+	"Declaration.h"
+	"LoadGame.h"
+	<time.h>
+	"BlockEngine.h"
+	<windows.h>
+
+1546040081 c:\users\administrator\desktop\game1.1\declaration.h
+	<stdio.h>
+	<stdlib.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<time.h>
+	<string.h>
+	<SDL2/SDL_ttf.h>
+
+1546033845 c:\users\administrator\desktop\game1.1\loadgame.h
+	<stdio.h>
+	<stdlib.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<time.h>
+	<string.h>
+	<SDL2/SDL_ttf.h>
+	"Declaration.h"
+	<time.h>
+	"BlockEngine.h"
+
+1546040603 source:c:\users\administrator\desktop\game1.1\loadgame.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<time.h>
+	<string.h>
+	<SDL2/SDL_ttf.h>
+	"Declaration.h"
+	<time.h>
+	"BlockEngine.h"
+	<math.h>
+	<windows.h>
+
+1546036579 c:\users\administrator\desktop\game1.1\blockengine.h
+	<stdlib.h>
+	<stdio.h>
+
+1545439026 c:\users\administrator\desktop\game1.1\alblock.h
+	<stdlib.h>
+	<stdio.h>
+
+1545439092 source:c:\users\administrator\desktop\game1.1\alblock.c
+	<stdlib.h>
+	<stdio.h>
+	"AlBlock.h"
+	"BlockEngine.h"
+
+1546036568 source:c:\users\administrator\desktop\game1.1\blockengine.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"BlockEngine.h"
+
+1546040168 source:c:\users\lawliet\desktop\game1.1\blockengine.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"BlockEngine.h"
+
+1546093260 c:\users\lawliet\desktop\game1.1\blockengine.h
+	<stdlib.h>
+	<stdio.h>
+
+1546044337 source:c:\users\lawliet\desktop\game1.1\loadgame.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<time.h>
+	<string.h>
+	<SDL2/SDL_ttf.h>
+	"Declaration.h"
+	<time.h>
+	"BlockEngine.h"
+	<math.h>
+	<windows.h>
+
+1546043681 c:\users\lawliet\desktop\game1.1\declaration.h
+	<stdio.h>
+	<stdlib.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<time.h>
+	<string.h>
+	<SDL2/SDL_ttf.h>
+
+1546038290 source:c:\users\lawliet\desktop\game1.1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<time.h>
+	<string.h>
+	<SDL2/SDL_ttf.h>
+	"Declaration.h"
+	"LoadGame.h"
+	<time.h>
+	"BlockEngine.h"
+	<windows.h>
+
+1546037445 c:\users\lawliet\desktop\game1.1\loadgame.h
+	<stdio.h>
+	<stdlib.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<time.h>
+	<string.h>
+	<SDL2/SDL_ttf.h>
+	"Declaration.h"
+	<time.h>
+	"BlockEngine.h"
+
+1546095901 source:c:\users\lawliet\desktop\game1.3\loadgame.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<time.h>
+	<string.h>
+	<SDL2/SDL_ttf.h>
+	"Declaration.h"
+	<time.h>
+	"BlockEngine.h"
+	<math.h>
+	<windows.h>
+
+1506099170 d:\bibsutilities\sdl2\sdl2\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1506099170 d:\bibsutilities\sdl2\sdl2\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1506099171 d:\bibsutilities\sdl2\sdl2\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<sal.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1506099171 d:\bibsutilities\sdl2\sdl2\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1506099170 d:\bibsutilities\sdl2\sdl2\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1506099171 d:\bibsutilities\sdl2\sdl2\include\sdl2\begin_code.h
+
+1506099171 d:\bibsutilities\sdl2\sdl2\include\sdl2\close_code.h
+
+1506099170 d:\bibsutilities\sdl2\sdl2\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1506099170 d:\bibsutilities\sdl2\sdl2\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<mbarrier.h>
+	"close_code.h"
+
+1506099170 d:\bibsutilities\sdl2\sdl2\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1506099170 d:\bibsutilities\sdl2\sdl2\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1506099170 d:\bibsutilities\sdl2\sdl2\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1506099170 d:\bibsutilities\sdl2\sdl2\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1506099171 d:\bibsutilities\sdl2\sdl2\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	<process.h>
+	"close_code.h"
+
+1506099171 d:\bibsutilities\sdl2\sdl2\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1506099170 d:\bibsutilities\sdl2\sdl2\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1506099170 d:\bibsutilities\sdl2\sdl2\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mmintrin.h>
+	<mm3dnow.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1506099170 d:\bibsutilities\sdl2\sdl2\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1506099171 d:\bibsutilities\sdl2\sdl2\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1506099170 d:\bibsutilities\sdl2\sdl2\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1506099171 d:\bibsutilities\sdl2\sdl2\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1506099171 d:\bibsutilities\sdl2\sdl2\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1506099170 d:\bibsutilities\sdl2\sdl2\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1506099170 d:\bibsutilities\sdl2\sdl2\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1506099170 d:\bibsutilities\sdl2\sdl2\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1506099171 d:\bibsutilities\sdl2\sdl2\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1506099170 d:\bibsutilities\sdl2\sdl2\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1506099170 d:\bibsutilities\sdl2\sdl2\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1506099170 d:\bibsutilities\sdl2\sdl2\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1506099171 d:\bibsutilities\sdl2\sdl2\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1506099170 d:\bibsutilities\sdl2\sdl2\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1506099171 d:\bibsutilities\sdl2\sdl2\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1506099170 d:\bibsutilities\sdl2\sdl2\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1506099170 d:\bibsutilities\sdl2\sdl2\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1506099170 d:\bibsutilities\sdl2\sdl2\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1506099170 d:\bibsutilities\sdl2\sdl2\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1506099170 d:\bibsutilities\sdl2\sdl2\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1506099170 d:\bibsutilities\sdl2\sdl2\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1506099171 d:\bibsutilities\sdl2\sdl2\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1506099171 d:\bibsutilities\sdl2\sdl2\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1506099171 d:\bibsutilities\sdl2\sdl2\include\sdl2\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1506099171 d:\bibsutilities\sdl2\sdl2\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1506099171 d:\bibsutilities\sdl2\sdl2\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1506099171 d:\bibsutilities\sdl2\sdl2\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451800373 d:\bibsutilities\sdl2\sdl2\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376149343 d:\bibsutilities\sdl2\sdl2\include\sdl2\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1546094331 c:\users\lawliet\desktop\game1.3\declaration.h
+	<stdio.h>
+	<stdlib.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<time.h>
+	<string.h>
+	<SDL2/SDL_ttf.h>
+
+1546094357 c:\users\lawliet\desktop\game1.3\blockengine.h
+	<stdlib.h>
+	<stdio.h>
+
+1546094582 source:c:\users\lawliet\desktop\game1.3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<time.h>
+	<string.h>
+	<SDL2/SDL_ttf.h>
+	"Declaration.h"
+	"LoadGame.h"
+	<time.h>
+	"BlockEngine.h"
+	<windows.h>
+
+1546094317 c:\users\lawliet\desktop\game1.3\loadgame.h
+	<stdio.h>
+	<stdlib.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<time.h>
+	<string.h>
+	<SDL2/SDL_ttf.h>
+	"Declaration.h"
+	<time.h>
+	"BlockEngine.h"
+
+1546095399 source:c:\users\lawliet\desktop\game1.3\blockengine.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	"BlockEngine.h"
+
+1546299541 source:c:\users\lawliet\desktop\game1.3 redesign\blockengine.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	"BlockEngine.h"
+
+1546299536 c:\users\lawliet\desktop\game1.3 redesign\blockengine.h
+	<stdlib.h>
+	<stdio.h>
+
+1546302704 source:c:\users\lawliet\desktop\game1.3 redesign\loadgame.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<time.h>
+	<string.h>
+	<SDL2/SDL_ttf.h>
+	"Declaration.h"
+	<time.h>
+	"BlockEngine.h"
+	<math.h>
+	<windows.h>
+	"AIBlock.h"
+
+1546141876 c:\users\lawliet\desktop\game1.3 redesign\declaration.h
+	<stdio.h>
+	<stdlib.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<time.h>
+	<string.h>
+	<SDL2/SDL_ttf.h>
+
+1546295009 source:c:\users\lawliet\desktop\game1.3 redesign\main.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<time.h>
+	<string.h>
+	<SDL2/SDL_ttf.h>
+	"Declaration.h"
+	"LoadGame.h"
+	<time.h>
+	"BlockEngine.h"
+	<windows.h>
+
+1546292465 c:\users\lawliet\desktop\game1.3 redesign\loadgame.h
+	<stdio.h>
+	<stdlib.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<time.h>
+	<string.h>
+	<SDL2/SDL_ttf.h>
+	"Declaration.h"
+	<time.h>
+	"BlockEngine.h"
+
+1546301400 source:c:\users\lawliet\desktop\game1.3 redesign\aiblock.c
+	<stdlib.h>
+	<stdio.h>
+	"AIBlock.h"
+	"BlockEngine.h"
+
+1546299555 c:\users\lawliet\desktop\game1.3 redesign\aiblock.h
+	<stdlib.h>
+	<stdio.h>
+
+1546297800 source:c:\users\administrator\desktop\game1.3 redesign\aiblock.c
+	<stdlib.h>
+	<stdio.h>
+	"AIBlock.h"
+	"BlockEngine.h"
+
+1546295955 c:\users\administrator\desktop\game1.3 redesign\aiblock.h
+	<stdlib.h>
+	<stdio.h>
+
+1546295936 c:\users\administrator\desktop\game1.3 redesign\blockengine.h
+	<stdlib.h>
+	<stdio.h>
+
+1546295941 source:c:\users\administrator\desktop\game1.3 redesign\blockengine.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	"BlockEngine.h"
+
+1546291409 source:c:\users\administrator\desktop\game1.3 redesign\main.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<time.h>
+	<string.h>
+	<SDL2/SDL_ttf.h>
+	"Declaration.h"
+	"LoadGame.h"
+	<time.h>
+	"BlockEngine.h"
+	<windows.h>
+
+1546138276 c:\users\administrator\desktop\game1.3 redesign\declaration.h
+	<stdio.h>
+	<stdlib.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<time.h>
+	<string.h>
+	<SDL2/SDL_ttf.h>
+
+1546288865 c:\users\administrator\desktop\game1.3 redesign\loadgame.h
+	<stdio.h>
+	<stdlib.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<time.h>
+	<string.h>
+	<SDL2/SDL_ttf.h>
+	"Declaration.h"
+	<time.h>
+	"BlockEngine.h"
+
+1547153075 source:c:\users\administrator\desktop\game1.3 redesign\loadgame.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<time.h>
+	<string.h>
+	<SDL2/SDL_ttf.h>
+	"Declaration.h"
+	<time.h>
+	"BlockEngine.h"
+	<math.h>
+	<windows.h>
+	"AIBlock.h"
+
+1547316368 source:c:\users\lawliet\desktop\game1.3 redesign_saif\aiblock.c
+	<stdlib.h>
+	<stdio.h>
+	"AIBlock.h"
+	"BlockEngine.h"
+
+1546299555 c:\users\lawliet\desktop\game1.3 redesign_saif\aiblock.h
+	<stdlib.h>
+	<stdio.h>
+
+1546299536 c:\users\lawliet\desktop\game1.3 redesign_saif\blockengine.h
+	<stdlib.h>
+	<stdio.h>
+
+1547314965 source:c:\users\lawliet\desktop\game1.3 redesign_saif\blockengine.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	"BlockEngine.h"
+
+1547315620 source:c:\users\lawliet\desktop\game1.3 redesign_saif\loadgame.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<time.h>
+	<string.h>
+	<SDL2/SDL_ttf.h>
+	"Declaration.h"
+	<time.h>
+	"BlockEngine.h"
+	<math.h>
+	<windows.h>
+	"AIBlock.h"
+
+1547311118 c:\users\lawliet\desktop\game1.3 redesign_saif\declaration.h
+	<stdio.h>
+	<stdlib.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<time.h>
+	<string.h>
+	<SDL2/SDL_ttf.h>
+
+1546295009 source:c:\users\lawliet\desktop\game1.3 redesign_saif\main.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<time.h>
+	<string.h>
+	<SDL2/SDL_ttf.h>
+	"Declaration.h"
+	"LoadGame.h"
+	<time.h>
+	"BlockEngine.h"
+	<windows.h>
+
+1547302394 c:\users\lawliet\desktop\game1.3 redesign_saif\loadgame.h
+	<stdio.h>
+	<stdlib.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<time.h>
+	<string.h>
+	<SDL2/SDL_ttf.h>
+	"Declaration.h"
+	<time.h>
+	"BlockEngine.h"
+
+1547312770 source:c:\users\administrator\desktop\game1.3\game1.3 redesign_saif\aiblock.c
+	<stdlib.h>
+	<stdio.h>
+	"AIBlock.h"
+	"BlockEngine.h"
+
+1546295956 c:\users\administrator\desktop\game1.3\game1.3 redesign_saif\aiblock.h
+	<stdlib.h>
+	<stdio.h>
+
+1546295938 c:\users\administrator\desktop\game1.3\game1.3 redesign_saif\blockengine.h
+	<stdlib.h>
+	<stdio.h>
+
+1547311366 source:c:\users\administrator\desktop\game1.3\game1.3 redesign_saif\blockengine.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	"BlockEngine.h"
+
+1546291410 source:c:\users\administrator\desktop\game1.3\game1.3 redesign_saif\main.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<time.h>
+	<string.h>
+	<SDL2/SDL_ttf.h>
+	"Declaration.h"
+	"LoadGame.h"
+	<time.h>
+	"BlockEngine.h"
+	<windows.h>
+
+1547323967 c:\users\administrator\desktop\game1.3\game1.3 redesign_saif\declaration.h
+	<stdio.h>
+	<stdlib.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<time.h>
+	<string.h>
+	<SDL2/SDL_ttf.h>
+
+1547323817 c:\users\administrator\desktop\game1.3\game1.3 redesign_saif\loadgame.h
+	<stdio.h>
+	<stdlib.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<time.h>
+	<string.h>
+	<SDL2/SDL_ttf.h>
+	"Declaration.h"
+	<time.h>
+	"BlockEngine.h"
+
+1547312770 source:c:\users\administrator\desktop\game1.3 redesign_saif\aiblock.c
+	<stdlib.h>
+	<stdio.h>
+	"AIBlock.h"
+	"BlockEngine.h"
+
+1546295956 c:\users\administrator\desktop\game1.3 redesign_saif\aiblock.h
+	<stdlib.h>
+	<stdio.h>
+
+1546295938 c:\users\administrator\desktop\game1.3 redesign_saif\blockengine.h
+	<stdlib.h>
+	<stdio.h>
+
+1547441370 source:c:\users\administrator\desktop\game1.3 redesign_saif\blockengine.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	"BlockEngine.h"
+
+1547444167 source:c:\users\administrator\desktop\game1.3 redesign_saif\loadgame.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<time.h>
+	<string.h>
+	<SDL2/SDL_ttf.h>
+	"Declaration.h"
+	<time.h>
+	"BlockEngine.h"
+	<math.h>
+	<windows.h>
+	"AIBlock.h"
+
+1547443212 c:\users\administrator\desktop\game1.3 redesign_saif\declaration.h
+	<stdio.h>
+	<stdlib.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<time.h>
+	<string.h>
+	<SDL2/SDL_ttf.h>
+
+1546291410 source:c:\users\administrator\desktop\game1.3 redesign_saif\main.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<time.h>
+	<string.h>
+	<SDL2/SDL_ttf.h>
+	"Declaration.h"
+	"LoadGame.h"
+	<time.h>
+	"BlockEngine.h"
+	<windows.h>
+
+1547323817 c:\users\administrator\desktop\game1.3 redesign_saif\loadgame.h
+	<stdio.h>
+	<stdlib.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<time.h>
+	<string.h>
+	<SDL2/SDL_ttf.h>
+	"Declaration.h"
+	<time.h>
+	"BlockEngine.h"
+
